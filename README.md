@@ -1,4 +1,4 @@
-# Repositorio de Actividades
+
 # Repositorio de Actividades
 
 Este repositorio contiene las actividades organizadas por unidades y los resúmenes correspondientes. Se han creado diferentes branches para mantener un orden adecuado:
